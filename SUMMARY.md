@@ -2,13 +2,13 @@
 
 * [👋 Welcome!](README.md)
 
-## About us
+## About me
 
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
-  * [Vision](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
-* [💖 Values](about-us/values.md)
+* [🚀 Vision, Mission & Focus](about-me/vision-mission-and-focus/README.md)
+  * [Vision](about-me/vision-mission-and-focus/vision.md)
+  * [Mission](about-me/vision-mission-and-focus/mission.md)
+  * [Focus](about-me/vision-mission-and-focus/focus.md)
+* [💖 Values](about-me/values.md)
 
 ## Team
 
